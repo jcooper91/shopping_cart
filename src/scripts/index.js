@@ -19,7 +19,7 @@ class UI {
         this.bugAlert = document.querySelector('.bug-alert')
     }
 
-    generateBugDOM(bug) {
+    generateBugDOM() {
         let bugListDiv = document.createElement('div')
 
         return this.bugListDiv
