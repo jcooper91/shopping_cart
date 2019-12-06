@@ -1,0 +1,17 @@
+.bug-card {
+    margin:auto;
+}
+
+.bug-list {
+    clear:both;
+}
+
+.card-header {
+    background:#fff;
+    color: #614f4f;
+    font-weight: 600;
+}
+
+.hide-bug-alert {
+    display: none;
+}
